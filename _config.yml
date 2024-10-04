@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: COAS
+description: Computer Organization, Architecture & System, 计算机组成、结构与系统
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://abotw.github.io/coas
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Repo: https://github.com/abotw/coas
